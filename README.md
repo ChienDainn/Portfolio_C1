@@ -1,7 +1,7 @@
 
 # Portfolio C1
 Hello, everyone!
-Allow me to introduce myself. I’m Eki Zulfar Rachman, and today, I’d like to share a portfolio website project that I’ve developed.
+I’d like to share a portfolio website project 
 
 Tech Stack Used:
 - ReactJS
